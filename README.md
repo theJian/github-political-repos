@@ -6,3 +6,5 @@ A curated list of political repositories on github
 - [China Dictatorship 中国独裁统治](https://github.com/cirosantilli/china-dictatorship)
 
 - [太子党关系网络](https://github.com/programthink/zhao)
+
+- [996.ICU](https://github.com/996icu/996.ICU)
